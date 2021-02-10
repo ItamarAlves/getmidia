@@ -1,0 +1,66 @@
+#header{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+#titleTop{
+  color: white;
+}
+
+.cabecalho{
+  margin-top: 10%;
+  margin-bottom: -12%;
+}
+
+#titleCabecalho{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+#resumoCabecalho{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+.searchMedia{
+  margin: 0 auto;
+  width: 100%;
+}
+
+#searchMedia{
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  cursor: text;
+  border: 0.5px solid rgba(0, 0, 0, 0.1);
+  float: left;
+}
+
+#searchMedia:hover{
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px;
+}
+
+#btnBaixar{
+  color: #0275d8;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#btnBaixar:hover{
+  color: white;
+  background-color: #0275d8;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px;
+}
+
+.rodape{
+  margin-top: 15.9%;
+  box-shadow: rgba(0, 0, 0, 0.4) 4px 0px 10px;
+}
+
+.rodape p{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: white;
+  padding-top: 10px;
+}
